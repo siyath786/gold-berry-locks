@@ -148,7 +148,6 @@ li a:focus {
   text-align: center;
 }
 .service p {
-  font-weight: bolder;
   font-size: 1.1rem;
   width: 90%;
   text-align: center;
@@ -198,7 +197,6 @@ li a:focus {
 }
 
 .featured-work p {
-  font-weight: bolder;
   font-size: 1.1rem;
   color: white;
   text-align: center;
@@ -244,7 +242,7 @@ li a:focus {
   color: white;
   font-size: 1rem;
   text-align: justify;
-  font-weight: bolder;
+  
 }
 .choose {
   display: flex;
@@ -269,7 +267,7 @@ li a:focus {
   font-size: 1.1rem;
   color: rgb(255, 255, 255);
   width: 100%;
-  font-weight: bolder;
+
 }
 .productss {
   display: flex;
@@ -287,7 +285,6 @@ li a:focus {
   font-size: 1.1rem;
   color: rgb(255, 255, 255);
   width: 90%;
-  font-weight:bolder;
   text-align: justify;
 }
 
