@@ -319,7 +319,7 @@ li a:focus {
 .technology h1 {
   font-size: 2.1rem;
   color: black;
-  font-weight: lighter;
+  font-weight: bolder;
   width: 90%;
   text-align: center;
 }
@@ -533,6 +533,9 @@ li a:focus {
   .technology {
     height: 30vh;
   }
+  .technology h1{
+    font-weight: lighter;
+  }
   .lastcontainer {
     display: flex;
     justify-content: center;
@@ -682,6 +685,7 @@ li a:focus {
   }
   .technology h1 {
     width: 60%;
+    font-weight: lighter;
   }
   .technology {
     height: 25vh;
