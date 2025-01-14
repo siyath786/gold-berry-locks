@@ -144,7 +144,7 @@ li a:focus {
 .service h1 {
   font-size: 2.1rem;
   color: #b5851d;
-  font-weight: lighter;
+  font-weight: bolder;
   text-align: center;
 }
 .service p {
@@ -192,7 +192,7 @@ li a:focus {
 }
 .featured-work h1 {
   color: var(--gold-color);
-  font-weight: lighter;
+  font-weight: bolder;
   font-size: 2rem;
   text-align: center;
 }
@@ -218,7 +218,7 @@ li a:focus {
 .aboutus h1 {
   color: var(--gold-color);
   font-size: 2.3rem;
-  font-weight: lighter;
+  font-weight: bolder;
 }
 
 .smallmain {
@@ -236,7 +236,7 @@ li a:focus {
 .smallmain h1 {
   color: var(--gold-color);
   font-size: 2.1rem;
-  font-weight: lighter;
+  font-weight: bolder;
   width: 90%;
 }
 .smallmain p {
@@ -255,7 +255,7 @@ li a:focus {
 .choose h2 {
   font-size: 1.8rem;
   color: var(--gold-color);
-  font-weight: lighter;
+  font-weight: bolder;
 }
 .choose ul {
   margin-left: 8%;
@@ -279,7 +279,7 @@ li a:focus {
 .productss h1 {
   color: var(--gold-color);
   font-size: 2.3rem;
-  font-weight: lighter;
+  font-weight: bolder;
   align-items: center;
   
 }
@@ -465,9 +465,11 @@ li a:focus {
   }
   .service h1 {
     font-size: 2.2rem;
+    font-weight: lighter;
   }
   .featured-work h1 {
     font-size: 2.2rem;
+    font-weight: lighter;
   }
   .featured-work p{
     font-weight: lighter;
@@ -496,15 +498,21 @@ li a:focus {
   .smallmain h1 {
     font-size: 2.2rem;
     width: 90%;
+    font-weight: lighter;
+  }
+  .choose h2{
+    font-weight: lighter;
   }
   .choose ul {
     margin-left: 6%;
   }
   .aboutus h1 {
     font-size: 2.4rem;
+    font-weight: lighter;
   }
   .productss h1 {
     font-size: 2.4rem;
+    font-weight: lighter;
   }
   .productss p{
     font-weight: lighter;
@@ -612,9 +620,11 @@ li a:focus {
   }
   .service h1 {
     font-size: 2.2rem;
+    font-weight: lighter;
   }
   .featured-work h1 {
     font-size: 2.2rem;
+    font-weight: lighter;
   }
   .featured-work p{
     font-weight: lighter;
@@ -644,6 +654,10 @@ li a:focus {
   .smallmain h1 {
     font-size: 2.2rem;
     width: 90%;
+    font-weight: lighter;
+  }
+  .choose h2{
+    font-weight: lighter;
   }
   .choose ul {
     margin-left: 5%;
@@ -654,9 +668,11 @@ li a:focus {
 
   .aboutus h1 {
     font-size: 2.4rem;
+    font-weight: lighter;
   }
   .productss h1 {
     font-size: 2.4rem;
+    font-weight: lighter;
   }
   .productss p {
     font-size: 1.1rem;
