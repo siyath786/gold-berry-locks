@@ -25,7 +25,9 @@ body {
   background-color: var(--black-color);
   position: sticky;
   top: 0px;
+  z-index: 4;
 }
+
 .logo {
   height: 100%;
 }
@@ -396,6 +398,7 @@ li a:focus {
 
 .lastsection {
   border-top: 1px solid rgba(255, 255, 255, 0.185);
+  
 }
 .lastsection1 {
   display: flex;
@@ -404,6 +407,16 @@ li a:focus {
 }
 .lastsection1 p {
   color: white;
+}
+.icons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap:30px;
+}
+.icons i{
+  color:white;
+  font-size: 1.2rem;
 }
 
 /* media quries styles for mid screen and tablets */
@@ -554,10 +567,13 @@ li a:focus {
     width: 20%;
   }
   .lastsection {
-    height: 10vh;
+    height: 8vh;
     display: flex;
     align-items: center;
     justify-content: space-around;
+  }
+  .icons i{
+    gap:50px;
   }
   
 }
@@ -722,10 +738,14 @@ li a:focus {
     margin-right: 4%;
   }
   .lastsection {
-    height: 10vh;
+    height: 8vh;
     display: flex;
     align-items: center;
     justify-content: space-around;
+  }
+
+  .icons {
+    gap:80px;
   }
   
 }
