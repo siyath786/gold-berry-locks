@@ -244,7 +244,6 @@ li a:focus {
   color: white;
   font-size: 1rem;
   text-align: justify;
-  
 }
 .choose {
   display: flex;
@@ -269,7 +268,6 @@ li a:focus {
   font-size: 1.1rem;
   color: rgb(255, 255, 255);
   width: 100%;
-
 }
 .productss {
   display: flex;
@@ -281,7 +279,6 @@ li a:focus {
   font-size: 2.3rem;
   font-weight: bolder;
   align-items: center;
-  
 }
 .productss p {
   font-size: 1.1rem;
@@ -398,7 +395,6 @@ li a:focus {
 
 .lastsection {
   border-top: 1px solid rgba(255, 255, 255, 0.185);
-  
 }
 .lastsection1 {
   display: flex;
@@ -408,14 +404,14 @@ li a:focus {
 .lastsection1 p {
   color: white;
 }
-.icons{
+.icons {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap:30px;
+  gap: 30px;
 }
-.icons i{
-  color:white;
+.icons i {
+  color: white;
   font-size: 1.2rem;
 }
 
@@ -481,7 +477,7 @@ li a:focus {
     font-size: 2.2rem;
     font-weight: lighter;
   }
-  .featured-work p{
+  .featured-work p {
     font-weight: lighter;
   }
   .main3 {
@@ -510,7 +506,7 @@ li a:focus {
     width: 90%;
     font-weight: lighter;
   }
-  .choose h2{
+  .choose h2 {
     font-weight: lighter;
   }
   .choose ul {
@@ -524,7 +520,7 @@ li a:focus {
     font-size: 2.4rem;
     font-weight: lighter;
   }
-  .productss p{
+  .productss p {
     font-weight: lighter;
   }
   .pcont1,
@@ -551,7 +547,7 @@ li a:focus {
   .technology {
     height: 30vh;
   }
-  .technology h1{
+  .technology h1 {
     font-weight: lighter;
   }
   .lastcontainer {
@@ -572,10 +568,9 @@ li a:focus {
     align-items: center;
     justify-content: space-around;
   }
-  .icons i{
-    gap:50px;
+  .icons i {
+    gap: 50px;
   }
-  
 }
 
 /* media queries styles for desktop and large screens  */
@@ -639,7 +634,7 @@ li a:focus {
     font-size: 2.2rem;
     font-weight: lighter;
   }
-  .featured-work p{
+  .featured-work p {
     font-weight: lighter;
   }
   .main3 {
@@ -669,7 +664,7 @@ li a:focus {
     width: 90%;
     font-weight: lighter;
   }
-  .choose h2{
+  .choose h2 {
     font-weight: lighter;
   }
   .choose ul {
@@ -745,7 +740,6 @@ li a:focus {
   }
 
   .icons {
-    gap:80px;
+    gap: 80px;
   }
-  
 }
